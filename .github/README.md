@@ -1,28 +1,28 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「 Sᴛʀɪɴɢ Gᴇɴ Bᴏᴛ 」──
+    ──「 𝙿𝚄𝚂𝚄 𝚂𝚃𝚁𝙸𝙽𝙶 𝙶𝙴𝙽 𝙱𝙾𝚃 」──
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/07e5b7d11e3a834ad3826.jpg">
+  <img src="https://graph.org/file/d846de374d8884261e638.jpg">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [sᴛʀɪɴɢ ғᴀᴛʜᴇʀ](https://t.me/StringFatherBot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [sᴛʀɪɴɢ ғᴀᴛʜᴇʀ](http://t.me/Pusu_String_Gen_Bot)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-<a href="https://github.com/AnonymousX1025/StringGenBot/stargazers"><img src="https://img.shields.io/github/stars/AnonymousX1025/StringGenBot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars"/></a>
-<a href="https://github.com/AnonymousX1025/StringGenBot/network/members"> <img src="https://img.shields.io/github/forks/AnonymousX1025/StringGenBot?color=black&logo=github&logoColor=black&style=for-the-badge"/></a>
-<a href="https://github.com/AnonymousX1025/StringGenBot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License"/></a>
+<a href="https://github.com/legendaditya03/Pusu-String/stargazers"><img src="https://img.shields.io/github/stars/legendaditya03/Pusu-String?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars"/></a>
+<a href="https://github.com/legendaditya03/Pusu-String/network/members"> <img src="https://img.shields.io/github/forks/legendaditya03/Pusu-String?color=black&logo=github&logoColor=black&style=for-the-badge"/></a>
+<a href="https://github.com/legendaditya03/Pusu-String/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License"/></a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python"/></a>
-<a href="https://github.com/legendaditya03/Pusu-String/commits/AnonymousX1025"> <img src="https://img.shields.io/github/last-commit/AnonymousX1025/StringGenBot?color=black&logo=github&logoColor=black&style=for-the-badge"/></a>
+<a href="https://github.com/legendaditya03/Pusu-String/commits/AnonymousX1025"> <img src="https://img.shields.io/github/last-commit/legendaditya03/Pusu-String?color=black&logo=github&logoColor=black&style=for-the-badge"/></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-  <img src="https://te.legra.ph/file/7871ceddf5ab4a6787182.jpg">
+  <img src="https://graph.org/file/d846de374d8884261e638.jpg">
 </p>
 
 <p align="center">
@@ -65,7 +65,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 Press `Ctrl+b` and then `d`
 
 <p align="center">
-  <img src="https://te.legra.ph/file/fa5b692e4ddb87559db17.jpg">
+  <img src="https://graph.org/file/d846de374d8884261e638.jpg">
 </p>
 
 </details>
@@ -76,10 +76,10 @@ Press `Ctrl+b` and then `d`
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/DevilsHeavenMF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/pusu_world"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/FallenAssociation"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/pusu_world01"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
